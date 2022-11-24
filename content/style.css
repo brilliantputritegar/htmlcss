@@ -118,3 +118,12 @@ input[type=text]:focus {
   height: 34px;
   background-color: #0D28A6;
 }
+
+@media only screen and (min-width: 992px) {
+  /* Footer */
+  .ftr-1 { width: 200px; }
+  .ftr-2 { width: 150px; }
+  .ftr-3 { width: 250px; }
+  .ftr-4 { width: 250px; }
+  .container-icon { width: 220px; }
+}
